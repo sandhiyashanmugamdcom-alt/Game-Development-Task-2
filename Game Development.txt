@@ -1,0 +1,30 @@
+Game Development – Task 2
+
+Game State, Progression, and Persistence
+
+Project Name: Target Click Game
+
+Description:
+
+I developed a simple Target Click Game using HTML, CSS, and JavaScript.
+
+Features:
+
+1. Start, Playing, Paused, Win, Lose and Restart states.
+2. Score tracking system.
+3. Level progression after every three successful clicks.
+4. Three difficulty settings: Easy, Medium and Hard.
+5. Timer-based gameplay.
+6. High-score storage using browser Local Storage.
+
+Persistence:
+
+The game saves the player's highest score using Local Storage. The high score remains available even after refreshing the browser.
+
+Testing:
+
+The game was tested for starting, pausing, resuming, winning, losing, restarting and saving high scores.
+
+Conclusion:
+
+This project demonstrates game-state management, player progression and data persistence using JavaScript.
